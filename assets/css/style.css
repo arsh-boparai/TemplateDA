@@ -930,6 +930,14 @@ blockquote {
     margin: 0 0 20px;
 }
 
+.list-icons {
+    font-size: 5rem
+}
+
+.list-icons .list-inline-item i:hover {
+    color: orange
+}
+
 blockquote {
     border: 0;
     font-style: italic;
